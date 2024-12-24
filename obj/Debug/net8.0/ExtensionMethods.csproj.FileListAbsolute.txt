@@ -12,3 +12,4 @@ C:\Users\Khan_Aja\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\net8.
 C:\Users\Khan_Aja\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
 C:\Users\Khan_Aja\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
 C:\Users\Khan_Aja\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll
+C:\Users\Khan_Aja\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.sourcelink.json
