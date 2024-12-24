@@ -12,5 +12,14 @@ namespace ExtensionMethods
         {
             Console.WriteLine("Test 3");
         }
+        public static int Factorial(this Int32 intObject , int p)
+        {
+            int result = 1;
+            for(int k = p;  k > 0; k--)
+            {
+                result = result * k;
+            }
+            return result;
+        }
     }
 }

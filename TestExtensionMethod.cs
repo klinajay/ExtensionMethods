@@ -15,6 +15,9 @@ namespace ExtensionMethods
             p.Test1();
             p.Test2();
             p.Test3();
+            int number = 5;
+            int factorial = number.Factorial(number);
+            Console.WriteLine($"Factorial of {number} is {factorial}");
 
         }
     }
